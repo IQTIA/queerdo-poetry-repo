@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="visual/reversed-pink-triangle.svg" width="96" alt="Reversed pink triangle — reclaimed queer symbol of remembrance, resistance, and protection">
+  <img src="visual/reversed-pink-triangle.svg" width="196" alt="Reversed pink triangle — reclaimed queer symbol of remembrance, resistance, and protection">
 </p>
 
 # Security, Safety, and Harm Reporting Policy
