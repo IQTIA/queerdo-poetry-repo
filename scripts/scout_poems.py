@@ -83,7 +83,7 @@ Return ONLY a JSON array of 3 objects, each with:
 No preamble. No markdown fences. Real poets only — do not invent."""
 
     msg = client.messages.create(
-        model="claude-sonnet-4-5",
+        model="claude-sonnet-4-6",
         max_tokens=4000,
         messages=[{"role":"user","content":prompt}]
     )
