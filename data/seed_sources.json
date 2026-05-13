@@ -1,0 +1,110 @@
+[
+  {
+    "title": "Sappho fragments",
+    "poet": "Sappho",
+    "language": "Ancient Greek",
+    "region": "Lesbos / archaic Greece",
+    "source_url": "https://www.gutenberg.org/ebooks/57390",
+    "source_type": "public domain",
+    "can_reproduce_text": true,
+    "themes": ["love against the state", "gender as weather", "the body as archive"],
+    "why_it_fits": "Sappho remains one of the ancestral lyric sources for queer poetic memory. Her fragments survive as broken transmission, desire, address, and absence.",
+    "rights_note": "Public-domain translations are available through Project Gutenberg, but any modern translation must be checked separately."
+  },
+  {
+    "title": "Goblin Market and Other Poems",
+    "poet": "Christina Rossetti",
+    "language": "English",
+    "region": "England",
+    "source_url": "https://www.gutenberg.org/ebooks/16950",
+    "source_type": "public domain",
+    "can_reproduce_text": true,
+    "themes": ["the body as archive", "after survival", "love against the state"],
+    "why_it_fits": "Rossetti's work carries charged forms of sisterhood, desire, religious discipline, bodily threat, and survival. It can be read beside queer and feminist archival hunger.",
+    "rights_note": "Public-domain text available through Project Gutenberg."
+  },
+  {
+    "title": "Leaves of Grass",
+    "poet": "Walt Whitman",
+    "language": "English",
+    "region": "United States",
+    "source_url": "https://www.gutenberg.org/ebooks/1322",
+    "source_type": "public domain",
+    "can_reproduce_text": true,
+    "themes": ["the body as archive", "home as a verb", "love against the state"],
+    "why_it_fits": "Whitman's poetry offers bodily collectivity, erotic comradeship, democratic address, and a restless idea of belonging.",
+    "rights_note": "Public-domain text available through Project Gutenberg."
+  },
+  {
+    "title": "The Poems of Emily Dickinson",
+    "poet": "Emily Dickinson",
+    "language": "English",
+    "region": "United States",
+    "source_url": "https://www.gutenberg.org/ebooks/12242",
+    "source_type": "public domain",
+    "can_reproduce_text": true,
+    "themes": ["gender as weather", "after survival", "the body as archive"],
+    "why_it_fits": "Dickinson's compressed poems hold enclosure, refusal, death, interior weather, and radical forms of address.",
+    "rights_note": "Public-domain editions are available through Project Gutenberg. Specific editions and editorial versions should still be checked."
+  },
+  {
+    "title": "Songs to Joannes",
+    "poet": "Mina Loy",
+    "language": "English",
+    "region": "Modernist / transatlantic avant-garde",
+    "source_url": "",
+    "source_type": "uncertain",
+    "can_reproduce_text": false,
+    "themes": ["gender as weather", "the body as archive", "love against the state"],
+    "why_it_fits": "Mina Loy's work fractures gender, sexuality, body, and modernity with sharp avant-garde force.",
+    "rights_note": "Rights status may vary. Use as metadata only unless a reliable public-domain or licensed source is verified."
+  },
+  {
+    "title": "Poems and fragments",
+    "poet": "Renée Vivien",
+    "language": "French",
+    "region": "France / lesbian literary history",
+    "source_url": "https://fr.wikisource.org/wiki/Auteur:Ren%C3%A9e_Vivien",
+    "source_type": "public domain / verify source",
+    "can_reproduce_text": true,
+    "themes": ["love against the state", "gender as weather", "after survival"],
+    "why_it_fits": "Renée Vivien's work is central to lesbian poetic lineage, erotic address, melancholy, and mythic self-fashioning.",
+    "rights_note": "Author died in 1909, so many works are public domain in many jurisdictions. Verify edition and source before reproducing."
+  },
+  {
+    "title": "Poetic works",
+    "poet": "Sor Juana Inés de la Cruz",
+    "language": "Spanish",
+    "region": "New Spain / Mexico",
+    "source_url": "https://es.wikisource.org/wiki/Autora:Sor_Juana_In%C3%A9s_de_la_Cruz",
+    "source_type": "public domain",
+    "can_reproduce_text": true,
+    "themes": ["love against the state", "the body as archive", "home as a verb"],
+    "why_it_fits": "Sor Juana's writing offers feminist intellect, religious constraint, desire, knowledge, and defiance against institutional authority.",
+    "rights_note": "Original works are public domain. Modern translations require separate rights checks."
+  },
+  {
+    "title": "Poems and songs",
+    "poet": "Bronisława Wajs / Papusza",
+    "language": "Romani / Polish",
+    "region": "Poland / Romani literary history",
+    "source_url": "",
+    "source_type": "metadata only / rights uncertain",
+    "can_reproduce_text": false,
+    "themes": ["home as a verb", "exile and chosen kin", "the body as archive"],
+    "why_it_fits": "Papusza is central to Romani poetic memory, displacement, song, survival, and the violence of being translated into public visibility.",
+    "rights_note": "Do not reproduce text without verified permission or public-domain confirmation. Use metadata only."
+  },
+  {
+    "title": "Romani oral song and lament traditions",
+    "poet": "collective / traditional",
+    "language": "Romani and related languages",
+    "region": "Romani diasporic contexts",
+    "source_url": "",
+    "source_type": "oral-literary trace",
+    "can_reproduce_text": false,
+    "themes": ["exile and chosen kin", "home as a verb", "after survival"],
+    "why_it_fits": "Romani oral song traditions carry memory, grief, movement, family, persecution, celebration, and survival outside institutional archives.",
+    "rights_note": "Treat oral traditions carefully. Do not extract or reproduce without context, consent, and source verification."
+  }
+]
