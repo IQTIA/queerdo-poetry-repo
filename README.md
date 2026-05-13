@@ -1,6 +1,6 @@
 # SAPPHO D
 
-A small open archive of trans*, queer, Romani, migrant, and unruly poetry.
+A small open archive of trans*, queer, and unruly poetry.
 
 No tracking.  
 No ads.  
@@ -36,9 +36,9 @@ No performance of bureaucracy.
 
 ## Memory
 
-This archive is dedicated to Alice Danger.
+This archive is dedicated to the legacy of Alice Danger.
 
-Writer. Performer. Member of QUEERDOS Kollektiv Berlin.  
+Writer. Performer. Member of QUEERDOS (2018-2021).  
 Their work moved through the body as pleasure, violence, labour, cyborg matter, sex radicalism, and refusal.
 
 SAPPHO D carries their name in the system.
