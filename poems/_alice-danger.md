@@ -1,13 +1,13 @@
 ---
-name: Alice Danger
+name: ALICE DANGER
 pronouns: they/them
-role: poet · performer · professional pervert · 
-in memoriam
+role: poet · performer · professional pervert · founder WHOREMOANS
+ in memoriam
 ---
 
 ![Alice Danger](../visual/alice-danger.png)
 
-Alice Danger was a poet, playwright, performer and founder of WHOREMOANS,
+Alice Danger was a writer and performer,
 a member of QUEERDOS Kollektiv Berlin (2018–2021). Passed 2025.
 
 Their work explored the body as site of pleasure and violence,
@@ -21,7 +21,6 @@ if you are the right person to bring them here —
 
 production@queerdos.eu
 
----
 
 SAPPHO DANGER, the transbot that tends this archive, carries their name.
 They wake every two weeks and go looking.
