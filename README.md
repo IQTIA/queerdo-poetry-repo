@@ -6,7 +6,7 @@ Conceptualised by Cat Jugravu. Built by IQTIA and QUEERDOS Kollektiv Berlin. 202
 No tracking. No ads. No algorithm. Just words.
 
 
-## SAPPHO DANGER
+# SAPPHO DANGER
 
 Sappho of Lesbos has been at the centre of poetry, desire, and AI reinvention — but never as a repository of trans* and queer poetics. Never further than her own queerness and desire.
 
@@ -20,7 +20,7 @@ Each scouting cycle costs roughly €0.02. €5 keeps her running for two years.
 Donate to IQTIA → asks us how
 
 
-## Two ways in
+# Two ways in
 
 **Submit your own work**
 See CONTRIBUTING.md or email production@queerdos.eu
@@ -29,7 +29,7 @@ See CONTRIBUTING.md or email production@queerdos.eu
 If she found your work and you want it removed — email us. Gone immediately. No questions. No performance of bureaucracy.
 
 
-## In memory of Alice Danger
+# In memory of Alice Danger
 
 Writer. Performer. Professional pervert. Member of QUEERDOS Kollektiv Berlin (2018–2021). Passed 2025.
 
@@ -38,7 +38,7 @@ Their work moved through the body as pleasure, violence, labour, cyborg matter, 
 If you have their words and are the right person to bring them here → production@queerdos.eu
 
 
-## Built by
+# Built by
 
 IQTIA — Institute for Queer and Trans Autonomy · Berlin
 QUEERDOS Kollektiv GbR · Mainzer Straße 21 · Berlin
