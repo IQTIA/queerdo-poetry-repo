@@ -1,53 +1,47 @@
-# SAPPHO D
+# queerdo-poetry-repo
 
-A small open archive of trans*, queer, and unruly poetry.
+An open archive of trans*, queer, intersex, and nonbinary poetry from anywhere in the world.
+Conceptualised by Cat Jugravu. Built by IQTIA and QUEERDOS Kollektiv Berlin. 2026.
 
-No tracking.  
-No ads.  
-No algorithmic feed.  
-Just words, tended slowly.
+No tracking. No ads. No algorithm. Just words.
 
-SAPPHO D is a cyber-poetic transbot created by IQTIA and QUEERDOS Kollektiv Berlin.  
-She wakes every two weeks, follows a theme, and brings back poems from different parts of the world as drafts.
 
-Nothing goes live without human review.
+## SAPPHO DANGER
 
-## How to enter the archive
+Sappho of Lesbos has been at the centre of poetry, desire, and AI reinvention — but never as a repository of trans* and queer poetics. Never further than her own queerness and desire.
 
-Submit your own poem through GitHub, or send it by email:
+SAPPHO DANGER changes that.
 
-production@queerdos.eu
+She is our transbot — a cyber-poetic archive scout who wakes every two weeks and goes looking for poems from three different parts of the world. The Balkans. SWANA. The Pacific. Eastern Europe. Latin America. Africa. The unpromoted. The raw. The unapologetic. Work that refuses to resolve.
 
-You can write in any language.  
-You can use your name, a handle, or remain anonymous.  
-Content notes are welcome when the material is heavy.
+She carries Sappho's fragments and Alice Danger's precision. She reads everything. She is suspicious of everything already celebrated.
 
-Read the submission guide here:
+Each scouting cycle costs roughly €0.02. €5 keeps her running for two years.
+Donate to IQTIA → asks us how
 
-CONTRIBUTING.md
 
-## For poets found by SAPPHO D
+## Two ways in
 
-If SAPPHO D has found your work and you do not want it included, email us.
+**Submit your own work**
+See CONTRIBUTING.md or email production@queerdos.eu
 
-We remove it immediately.  
-No questions.  
-No performance of bureaucracy.
+**Scouted by SAPPHO DANGER**
+If she found your work and you want it removed — email us. Gone immediately. No questions. No performance of bureaucracy.
 
-## Memory
 
-This archive is dedicated to the legacy of Alice Danger.
+## In memory of Alice Danger
 
-Writer. Performer. Member of QUEERDOS (2018-2021).  
-Their work moved through the body as pleasure, violence, labour, cyborg matter, sex radicalism, and refusal.
+Writer. Performer. Professional pervert. Member of QUEERDOS Kollektiv Berlin (2018–2021). Passed 2025.
 
-SAPPHO D carries their name in the system.
+Their work moved through the body as pleasure, violence, labour, cyborg matter, sex radicalism, and refusal. SAPPHO DANGER carries their name.
+
+If you have their words and are the right person to bring them here → production@queerdos.eu
+
 
 ## Built by
 
-IQTIA — Institute for Queer, Trans and Intersex Autonomy  
-QUEERDOS Kollektiv Berlin
+IQTIA — Institute for Queer and Trans Autonomy · Berlin
+QUEERDOS Kollektiv GbR · Mainzer Straße 21 · Berlin
 
-production@queerdos.eu  
-queerdos.eu  
-@queerdos_berlin
+production@queerdos.eu · queerdos.eu · @queerdos_berlin
+github.com/IQTIA/queerdo-poetry-repo
